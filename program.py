@@ -1,6 +1,5 @@
 from pydub import AudioSegment
 import numpy as np
-from numba import jit
 
 # 分割データの読み込み
 q = input("ファイル名 >>")
